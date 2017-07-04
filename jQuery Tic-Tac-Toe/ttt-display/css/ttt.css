@@ -1,0 +1,44 @@
+.ttt {
+  width: 400px;
+  margin: 0 auto;
+  background: none;
+}
+
+li {
+  float: left;
+}
+
+.row {
+  float: left;
+  margin: 0;
+}
+
+h1{
+  font-family: cursive;
+  font-size: 48px;
+  color: Grey;
+}
+
+html{
+  background-color: snow;
+}
+
+.square {
+  border: 2px solid gray;
+  width: 100px;
+  height: 100px;
+  float: left;
+  font-size: 90px;
+  text-align: center;
+  color: Coral;
+  list-style: none;
+  background-color: LightGoldenRodYellow;
+}
+
+.square:
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
